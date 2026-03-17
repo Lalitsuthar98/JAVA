@@ -1,5 +1,5 @@
-public class Demo {
-    public static void main(String[] args) { 
+// public class Demo {
+//     public static void main(String[] args) { 
         // integer
         // byte firstnum = 10; 
         // short secondnum = 1000;
@@ -54,14 +54,5 @@ public class Demo {
         // System.out.println(x);  
 
         // In java have the 68 keyword  
-        
-
-
-
-
-
-
-
-
-    }
-}
+//     }
+// }
